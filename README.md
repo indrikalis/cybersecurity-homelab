@@ -27,4 +27,4 @@ Ubuntu Server LTS ISO (version 24.04 or later, download from https://ubuntu.com/
 ## Table of Contents
 | Title |Links |
 |--------|--------|
-| **Bruteforce** | <a href="https://github.com/indrikalis/cybersecurity-homelab/blob/main/Ubuntu-Server.md">Ubuntu-Server</a> |
+| **Ubuntu Server** | <a href="https://github.com/indrikalis/cybersecurity-homelab/blob/main/Ubuntu-Server.md">Ubuntu-Server</a> |
