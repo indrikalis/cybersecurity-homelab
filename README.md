@@ -28,3 +28,4 @@ Ubuntu Server LTS ISO (version 24.04 or later, download from https://ubuntu.com/
 | Title |Links |
 |--------|--------|
 | **Ubuntu Server** | <a href="https://github.com/indrikalis/cybersecurity-homelab/blob/main/Ubuntu-Server.md">Ubuntu-Server</a> |
+| **DVWA Settup & Installation** | <a href="https://github.com/indrikalis/cybersecurity-homelab/blob/main/DVWA.md">DVWA</a> |
